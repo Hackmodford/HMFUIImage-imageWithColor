@@ -1,4 +1,4 @@
-HMUIImage-imageWithColor
+HMFUIImage-imageWithColor
 ========================
 
 UIImage +imageColor
